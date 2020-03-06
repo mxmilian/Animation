@@ -4,7 +4,7 @@
   height: 100vh;
   justify-content: center;
   align-items: center;
-  background-color: rgba(10, 10, 17, .3);
+  background-color: #909090;
 }
 
 .App svg {
